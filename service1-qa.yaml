@@ -1,0 +1,7 @@
+application:
+    name: service1
+    env: qa
+contact:
+    info:
+        name: Asha
+        email: asha@gmail.com

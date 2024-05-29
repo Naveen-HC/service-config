@@ -1,0 +1,7 @@
+application:
+  name: service1
+  env: dev
+contact:
+  info:
+    name: Naveen
+    email: naveen@gmail.com

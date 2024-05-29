@@ -1,0 +1,8 @@
+application:
+  name: service1
+  env: prod
+
+contact:
+  info:
+    name: Anirudh
+    email: anirudh@gmail.com
