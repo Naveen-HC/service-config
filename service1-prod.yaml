@@ -2,7 +2,11 @@ application:
   name: service1
   env: prod
 
-contact:
-  info:
+service1:
+  message: "Have a grate day!"
+  contactInfo:
     name: Anirudh
     email: anirudh@gmail.com
+  onCallSupport:
+    - 82000067
+    - 82111167

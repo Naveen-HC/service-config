@@ -1,7 +1,12 @@
 application:
-    name: service1
-    env: qa
-contact:
-    info:
-        name: Asha
-        email: asha@gmail.com
+  name: service1
+  env: qa
+
+service1:
+  message: "Have a grate day!"
+  contactInfo:
+    name: Asha
+    email: asha@gmail.com
+  onCallSupport:
+    - 82000067
+    - 82111167
