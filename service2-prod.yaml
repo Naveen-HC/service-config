@@ -1,5 +1,5 @@
 application:
-  name: service1
+  name: service2
   env: prod
 
 service1:
