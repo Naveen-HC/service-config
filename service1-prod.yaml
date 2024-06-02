@@ -1,6 +1,6 @@
 application:
   name: service1
-  env: production
+  env: production`12345
 
 service1:
   message: "Have a grate day!"
