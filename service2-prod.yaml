@@ -2,7 +2,7 @@ application:
   name: service2
   env: prod
 
-service1:
+service2:
   message: "Have a grate day!"
   contactInfo:
     name: Anirudh
